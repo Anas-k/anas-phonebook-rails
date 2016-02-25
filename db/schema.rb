@@ -33,7 +33,7 @@ ActiveRecord::Schema.define(version: 20160225103227) do
     t.string   "phone"
     t.integer  "subscribe"
     t.integer  "gender"
-    t.string   "address"
+    t.string   "adress"
     t.string   "citycode"
     t.string   "city"
   end
